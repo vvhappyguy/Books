@@ -4,5 +4,6 @@ class Book{
 	String text;
 	
 	String author;
+	String name;
 
 }
