@@ -1,0 +1,11 @@
+Windows Internals 7th edition (Part 1) covers the architecture and core internals of Windows 10 and Windows Server 2016. This book helps you:
+
+    Understand the Windows system architecture and its general components
+    Explore internal data structures using tools like the kernel debugger
+    Understand how Windows uses processes for management and isolation
+    Understand and view thread scheduling and how CPU resources are managed
+    Dig into the Windows security model including recent advances in security mitigations
+    Understand how Windows manages virtual and physical memory
+    Understand how the I/O system manages physical devices and device drivers
+
+For more information go to: https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals
